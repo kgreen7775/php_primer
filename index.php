@@ -36,6 +36,7 @@ include 'include/header.php'
 
 echo '<button type="button" class="btn btn-info">For more Information</button>';
 
+echo '<a class="btn btn-info" href="https://www.heroku.com"> Visit Heroku here </a>';
 
 require 'include/footer.php'
 ?>
